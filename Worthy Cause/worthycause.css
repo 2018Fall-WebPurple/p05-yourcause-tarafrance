@@ -1,0 +1,70 @@
+/*
+*Tara Frane
+*Due Date
+*Project Name and Description
+*/
+
+/* The Universal selector */
+
+* {margin: 0;
+   padding: 0;} *
+
+/* Body attributes here */
+
+body { background-color: navy;
+        color: white;
+} 
+header {text-align: center;
+        color: skyblue;
+        margin: 50px;}
+/*the font style for the h3 is different than the font style for the paragraphs*/
+h3 {font-family: Apple Chancery, Bradley Hand, Cursive;
+    padding: 10px solid white;
+    font-size: 20pt;}
+p {padding: 10px;
+   font-size: 18pt;}
+#education {color: red;
+            float: right;}
+
+#gallons {height: 200px;
+          width:250px;
+          border: 10px solid skyblue;
+          padding: 5px;}
+ul {padding: 10px;}
+main {margin: 50px;
+    text-decoration-color: aliceblue;}
+#plastic {height: 200px;
+          width: 250px;
+          border: 10px solid skyblue;
+          padding: 5px;}
+#animal {height: 200px;
+        width: 250px;
+        border: 10px solid skyblue;
+          padding: 5px;}
+#seagull {height: 200px;
+          width: 250px;
+          border: 10px solid skyblue;
+          padding: 5px;}
+#map {height: 150px;
+      width: 250px;
+      border: 10px solid skyblue;
+      padding: 5px;}
+#machine {height:200px;
+          width: 250px;
+          border: 10px solid skyblue;
+          padding: 5px; 
+          float: left;}
+li { margin-left: 20px;
+    font-size: 18pt;}
+h4 {font-size: 18pt;
+    margin: 5px;
+    padding: 5px;}
+/* using the hover element will make the link change color when it is being touched by the mouse */
+:hover #link {color: skyblue;}
+#mapfigure {float: right;}
+h4 {text-align: left;}
+#float {text-align: right;}
+#paragraph {text-align: right;}
+footer {border-top: 5px solid skyblue;
+        margin: 20px;
+        padding: 15px;}
